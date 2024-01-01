@@ -1,0 +1,29 @@
+@font-face{
+    font-family: Bangers;
+    src: url(fonts/Bangers-Regular.ttf);
+} 
+
+h1{        
+    font-family: 'Oswald', sans-serif;   
+
+    /* Colores */
+    /* Colores del sistema */
+    color: mediumpurple;
+    /* Colores hexadecimales */
+    color: #5c40404f;
+    /* Colores RGB */
+    color: rgb(128, 98, 0);
+    /* Colores RGBA */
+    color: rgba(128, 98, 0, 0.5);
+    
+}
+
+h3{
+    font-family: Bangers,fantasy;
+    font-size: 25px;
+    color: olive;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
